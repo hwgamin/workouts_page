@@ -8668,5 +8668,50 @@
 "average_speed": 2.976,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9765336004,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 5472.6,
+"moving_time": "0:25:38",
+"type": "Run",
+"start_date": "2023-09-01 21:23:57+00:00",
+"start_date_local": "2023-09-02 05:23:57",
+"location_country": "\u9752\u5c9b\u56fd\u4fe1\u4f53\u80b2\u4e2d\u5fc3, \u5185\u90e8\u8def, \u6d77\u5c14\u00b7\u4e1c\u57ce\u56fd\u9645, \u91d1\u5bb6\u5cad\u8857\u9053, \u5d02\u5c71\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266100, \u4e2d\u56fd",
+"summary_polyline": "ewj{Ecub~UKKMFCBEf@Df@XdA?FBLXf@HVBB@DDBPZDRVp@h@`ADXPZv@fAXZb@L`AJ~@VVDHA@GBCl@Y~@eAAAJa@DIPq@Na@^}BTwC@_BScCY_Bc@{@SOu@e@sA[aAIi@Ac@F_@Hk@T}At@m@l@MRQb@Sz@K~@GjA?nBBf@P~@j@jB`@p@^nAZv@`@h@n@d@f@Rt@Dn@E`@Ib@Sf@g@b@o@^_Aj@eCPg@Ls@Dg@@iAC{BW_DCWSq@g@o@KCMG_@K{@Sc@EeAG{ANi@JWJk@\\q@j@o@`A]z@Kb@IhAChBHlBF\\HT@^RRFLRx@PRPh@D@N^@HPZNHX`@LZfA@`@ExAAt@Q\\Sh@c@V_@LYB?DGJW\\oAHMHeADoAG}BGa@Me@QwAUe@Y_@YUy@_@_Ba@[C_ADw@Pc@Rc@X_@^o@~@Q`@Sv@Kl@Ed@?|CTrAh@pBXr@Pp@l@xAZl@V\\\\ZXPh@JXBj@Ef@GRG`@Sb@]V[t@sAf@kCVoBHUHwB?YI{@Y}BMg@Yq@QUc@]i@[w@[}AQg@?{AX}@b@m@h@a@d@Wd@Ut@WnB?d@Dd@AdAHd@Pt@TjAZhAVj@Rv@f@pAn@~@^\\b@Vn@Ll@@",
+"average_heartrate": 155.4,
+"average_speed": 3.558,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 9765335707,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 440.5,
+"moving_time": "0:02:21",
+"type": "Run",
+"start_date": "2023-09-01 21:50:12+00:00",
+"start_date_local": "2023-09-02 05:50:12",
+"location_country": "\u9752\u5c9b\u56fd\u4fe1\u4f53\u80b2\u4e2d\u5fc3, \u5185\u90e8\u8def, \u6d77\u5c14\u00b7\u4e1c\u57ce\u56fd\u9645, \u91d1\u5bb6\u5cad\u8857\u9053, \u5d02\u5c71\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266100, \u4e2d\u56fd",
+"summary_polyline": "mkj{Eo|a~Us@@m@GSE]Qw@aAcAaCw@}CUyA?yACmBH_AFM",
+"average_heartrate": 141.9,
+"average_speed": 3.124,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 9765335943,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 2666.6,
+"moving_time": "0:14:43",
+"type": "Run",
+"start_date": "2023-09-01 21:56:49+00:00",
+"start_date_local": "2023-09-02 05:56:49",
+"location_country": "\u9752\u5c9b\u56fd\u4fe1\u4f53\u80b2\u4e2d\u5fc3, \u5185\u90e8\u8def, \u6d77\u5c14\u00b7\u4e1c\u57ce\u56fd\u9645, \u91d1\u5bb6\u5cad\u8857\u9053, \u5d02\u5c71\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266100, \u4e2d\u56fd",
+"summary_polyline": "ivj{Emmb~UAEBa@Ac@E~BRfA`AvD~@dCPZTV`@VTLd@L\\Bd@Ab@Gh@Qh@a@b@o@N[Pk@p@qCNw@?g@L}BKcDIy@Q_AUs@Q[YUs@g@o@Ui@O]Ca@DWA{@VaA^WPm@j@[d@m@xAKr@Gr@?tB@n@Nz@Nh@?XBRXbATn@Jd@HT`@`A`@n@LPl@`@\\Jb@Br@?^Et@W^WX_@Va@Rc@Ng@TaA\\sBRoCBwAEqBI{@SiAMc@]m@YYa@UkAe@eBUI?u@Ls@Xw@^[Xs@z@Sh@Qn@Kr@Gn@CxB@TDD",
+"average_heartrate": 146.5,
+"average_speed": 3.02,
+"source": "strava",
+"streak": 1
 }
 ]
