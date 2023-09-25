@@ -9000,6 +9000,21 @@
 "streak": 7
 },
 {
+"run_id": 9908303569,
+"name": "\u508d\u665a\u884c\u8d70",
+"distance": 2328.7,
+"moving_time": "0:34:49",
+"type": "Hike",
+"start_date": "2023-09-23 11:37:16+00:00",
+"start_date_local": "2023-09-23 19:37:16",
+"location_country": "\u9c81\u4fe1\u957f\u6625\u82b1\u56ed, \u5d02\u5c71\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266100, \u4e2d\u56fd",
+"summary_polyline": "oyi{Egpa~UGK@IKKOES@KFOP]Hm@V]^KAKDOBIOIi@OYOc@ECEOOEMWM?GBGHWR?BQD_@Na@^o@\\K@OGOQGQYUCU?QBSJQ@MAa@B}@Cc@BYAg@Gc@UIi@CIAOGOAy@i@IM}@eBOQAIKS[gAG_@MY_@iC@aEJONaAFS`@}@RWHCH@Vf@HDr@A`@MNAh@BFHUPCDC??ENM\\WLE\\@JAFCb@H^?HBHJLFTDZXNTPJTj@AJNrA?l@BJF@DHBJ@TCV@NGr@c@rCIXMn@Ob@IH_@`Ae@h@IBKFq@XWf@CJA^BR@\\CbBFv@Ah@CNNj@PRF?PE`@SNOVKp@i@t@YR`@FFHTPZT|@BDNFVCPMDAXUp@UDI`@OJKHAVLd@h@",
+"average_heartrate": 80.7,
+"average_speed": 1.115,
+"source": "strava",
+"streak": 8
+},
+{
 "run_id": 9907650719,
 "name": "\u6668\u95f4\u8dd1\u6b65",
 "distance": 30861.4,
@@ -9012,6 +9027,6 @@
 "average_heartrate": 143.4,
 "average_speed": 3.082,
 "source": "strava",
-"streak": 1
+"streak": 9
 }
 ]
