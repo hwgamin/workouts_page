@@ -11023,5 +11023,35 @@
 "average_speed": 3.252,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10573641782,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 32886.0,
+"moving_time": "1:00:03",
+"type": "Ride",
+"start_date": "2024-01-17 00:32:48+00:00",
+"start_date_local": "2024-01-17 08:32:48",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 148.9,
+"average_speed": 9.127,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 10573641686,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 10008.4,
+"moving_time": "0:51:59",
+"type": "Run",
+"start_date": "2024-01-17 01:50:00+00:00",
+"start_date_local": "2024-01-17 09:50:00",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 153.7,
+"average_speed": 3.209,
+"source": "strava",
+"streak": 2
 }
 ]
