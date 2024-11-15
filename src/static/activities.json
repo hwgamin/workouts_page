@@ -14398,5 +14398,35 @@
 "average_speed": 3.482,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12896155042,
+"name": "\u5348\u540e\u8dd1\u6b65",
+"distance": 1680.6,
+"moving_time": "0:09:40",
+"type": "Run",
+"start_date": "2024-11-12 09:21:01+00:00",
+"start_date_local": "2024-11-12 15:21:01",
+"location_country": "\u82f1\u5df4\u624e\u8857\u9053 \u064a\u06d0\u06ad\u0649\u0628\u0627\u0632\u0627\u0631 \u0643\u0648\u0686\u0627 \u0628\u0627\u0634\u0642\u0627\u0631\u0645\u0649\u0633\u0649, \u4f9d\u5e72\u5176\u9547 \u0626\u0649\u06af\u06d5\u0631\u0686\u0649, \u963f\u514b\u82cf\u5e02 \u0626\u0627\u0642\u0633\u06c7 \u0634\u06d5\u06be\u0649\u0631\u0649, \u0626\u0627\u0642\u0633\u06c7 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649 - \u963f\u514b\u82cf\u5730\u533a, \u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a \u0634\u0649\u0646\u062c\u0627\u06ad \u0626\u06c7\u064a\u063a\u06c7\u0631 \u0626\u0627\u067e\u062a\u0648\u0646\u0648\u0645 \u0631\u0627\u064a\u0648\u0646\u06cc, \u4e2d\u56fd",
+"summary_polyline": "swdzFatyhN?CvA}@TYROZOf@_@bAg@hAy@b@Ul@c@f@Yf@k@j@URQf@Wz@m@HEH@NTh@|ANX\\dAX`AP`@h@fBTf@\\hAT|@h@xCBZAJOReExBSTq@Zg@`@{BfAo@b@e@Pq@b@_A`@YT_@LODg@DUAUG{@k@_AcAm@{@e@uAOm@[sCCg@@{@DeAHaAFSTW",
+"average_heartrate": 135.5,
+"average_speed": 2.898,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12896154924,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 1525.6,
+"moving_time": "0:08:17",
+"type": "Run",
+"start_date": "2024-11-13 03:44:40+00:00",
+"start_date_local": "2024-11-13 09:44:40",
+"location_country": "\u6c34\u97f5\u8def, \u82f1\u5df4\u624e\u8857\u9053 \u064a\u06d0\u06ad\u0649\u0628\u0627\u0632\u0627\u0631 \u0643\u0648\u0686\u0627 \u0628\u0627\u0634\u0642\u0627\u0631\u0645\u0649\u0633\u0649, \u4f9d\u5e72\u5176\u9547 \u0626\u0649\u06af\u06d5\u0631\u0686\u0649, \u963f\u514b\u82cf\u5e02 \u0626\u0627\u0642\u0633\u06c7 \u0634\u06d5\u06be\u0649\u0631\u0649, \u0626\u0627\u0642\u0633\u06c7 \u06cb\u0649\u0644\u0627\u064a\u0649\u062a\u0649 - \u963f\u514b\u82cf\u5730\u533a, \u65b0\u7586\u7ef4\u543e\u5c14\u81ea\u6cbb\u533a \u0634\u0649\u0646\u062c\u0627\u06ad \u0626\u06c7\u064a\u063a\u06c7\u0631 \u0626\u0627\u067e\u062a\u0648\u0646\u0648\u0645 \u0631\u0627\u064a\u0648\u0646\u06cc, \u4e2d\u56fd",
+"summary_polyline": "icezF_ozhNBBiAeCU_@ECOc@OUeAcCSm@We@Y}@a@}@Wa@]}@_AmBa@kA_AaBUw@uA{Ca@gAo@uAi@kAGW?YQu@IcAKe@G_AWgCQ_EMu@IsAWoCE_AG_@@[CK]c@a@_@w@gAaA}@m@s@WSEKBQVi@h@uARy@`@iAPs@HE@C",
+"average_heartrate": 146.2,
+"average_speed": 3.07,
+"source": "strava",
+"streak": 2
 }
 ]
