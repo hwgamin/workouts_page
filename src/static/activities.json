@@ -14443,5 +14443,35 @@
 "average_speed": 2.958,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12933383152,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 3022.8,
+"moving_time": "0:16:52",
+"type": "Run",
+"start_date": "2024-11-19 00:45:18+00:00",
+"start_date_local": "2024-11-19 08:45:18",
+"location_country": "\u4e2d\u97e9\u8857\u9053, \u5d02\u5c71\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266100, \u4e2d\u56fd",
+"summary_polyline": "qkn{Ekkb~UGB?GGCo@iBy@eBSm@Mk@Y[Ia@YaAIaAWeBG{@]}CC_AHQLIhBe@d@Sr@Q^O~@Ut@W|@SNBNPfAvB`@j@\\t@Xd@h@tAp@dAt@dBd@|@RVHV@LCLOR{@r@wA|Ae@Zm@l@}AfAg@n@{@|@]TIBWCOIOSwByEe@qAW{@u@yCE_@UyAOgCQyAA[@MDKHIh@QXEhCy@`AUr@WvAa@RHZd@j@jAt@lAXj@J\\h@~@Vp@Xd@PAN?NDN?N_@JO?CBETKZGD@@DWDUXMFm@r@IXALHPlApBHXCRg@b@UVs@l@aAfAo@d@Y\\k@Va@\\_@^W^eAdA",
+"average_heartrate": 137.9,
+"average_speed": 2.987,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 12933383138,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 3154.4,
+"moving_time": "0:18:16",
+"type": "Run",
+"start_date": "2024-11-19 01:14:02+00:00",
+"start_date_local": "2024-11-19 09:14:02",
+"location_country": "\u4e2d\u97e9\u8857\u9053, \u5d02\u5c71\u533a, \u9752\u5c9b\u5e02, \u5c71\u4e1c\u7701, 266100, \u4e2d\u56fd",
+"summary_polyline": "mjn{Eejb~UQGGIc@y@g@mAa@w@Qe@Mi@g@sAs@wCWcBIeA]aDCs@FWFGPKZIt@Mp@Yf@IbA_@zBs@^GNBJJdAtBz@vAFRn@nAN^j@`Ab@`ARPbAlBH`@BJCDSXs@h@a@f@u@j@yAxAi@\\s@j@a@h@sArAQHK?UGSQs@cBgAwBSu@a@cAOo@s@wCUaBMoBIk@KiBDQDGVMjASp@YdAUp@YfAWdA_@N@LHx@`BdAhBz@hBPd@v@lAp@zAPTj@dALb@ELOPsAjAQR_@Xq@t@YPe@d@iAx@kBtBMHQF_@EWSWq@OWWo@c@u@_@_AU{@]}@M{@",
+"average_heartrate": 142.2,
+"average_speed": 2.878,
+"source": "strava",
+"streak": 2
 }
 ]
